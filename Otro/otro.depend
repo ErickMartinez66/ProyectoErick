@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1712218856 source:c:\users\eric\documents\otro\adulto.cpp
+	"adulto.h"
+
+1712218856 c:\users\eric\documents\otro\adulto.h
+	"persona.h"
+
+1712218856 c:\users\eric\documents\otro\persona.h
+	<iostream>
+	<string>
+
+1712218856 source:c:\users\eric\documents\otro\menor.cpp
+	"menor.h"
+
+1712218856 c:\users\eric\documents\otro\menor.h
+	"persona.h"
+
+1712218856 source:c:\users\eric\documents\otro\persona.cpp
+	"persona.h"
+
+1712216556 source:c:\users\eric\documents\otro\main.cpp
+	<iostream>
+	<string>
+	<list>
+	<algorithm>
+	"persona.h"
+	"adulto.h"
+	"menor.h"
+
